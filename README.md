@@ -1,1 +1,3 @@
-# lab4
+For this lab I took the CSS and HTML from Lab2 part 3 and adapted it to this. For instances the HTML is all the same main body's, but does not contain the information. I changed the class names though to represent each song as well I removed the headers becuase I was having issues with it displaying after everythin else is displayed. besides that the CSS should be the same. 
+
+https://github.com/minars/lab4

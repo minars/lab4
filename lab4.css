@@ -1,0 +1,44 @@
+body{/* Does the border around everything*/
+	border: solid black;
+}
+
+ul{/* In general I want all UL's to have no style, be aligned and display in a table*/
+	text-align: center;	
+	display: table-row;
+}
+ul li{/* Each LI will be the cell and the text should be 14px*/
+	font-size: 14px;
+	display: table-cell;
+}
+
+li.songname{/* Specifically the songname will be small caps. does padding for beautifucation.*/
+	font-variant: small-caps;
+	padding-right: 25px;
+	padding-left: 10px;
+}
+li.artistname{ /*required bold*/
+	font-weight: bold;
+}
+li.albumname{/*required italic, padding for good spacing*/
+	font-style: italic;
+	padding-right: 25px;
+}
+li.releasedate{ /*smaller size, padding for beautification */
+	font-size: 12px;
+	padding-right: 25px;
+}
+li.genre{ /*smaller size, bullets, and padding for beautifucation */
+	font-size: 12px;
+	display:list-item;
+	list-style-type: square;
+	padding-right: 25px;
+
+}
+ul.Song3 li.songname{ /*favorite song */
+	color: green;
+}
+footer p{ /* footer */
+	text-align: center;
+	font-size: 10px;
+	font-style:italic;
+}

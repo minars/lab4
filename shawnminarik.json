@@ -1,0 +1,38 @@
+{
+    "Songs": [
+        {
+            "SongName": "Kings and Queens",
+            "Artist": "Thirty Seconds to Mars",
+            "Album":"This is War",
+            "Cover": "https://upload.wikimedia.org/wikipedia/en/8/88/30STM_%E2%80%94_This_Is_War.jpg",
+            "Release": "December 8, 2009",
+            "Link": "http://www.thirtysecondstomars.com/",
+            "Genres": "Alternative Rock"
+        },{
+            "SongName": "The Pretender",
+            "Artist": "Foo Fighters",
+            "Album":"Echoes,Silence,Patience and Grace ",
+            "Cover": "https://upload.wikimedia.org/wikipedia/en/6/68/Foos-ESPG.jpg",
+            "Release": "September 25, 2007",
+            "Link": "http://foofighters.com/ ",
+            "Genres":"Alternative Rock"
+        },{
+            "SongName": "King of Spain",
+            "Artist": "Midnight to Twelve",
+            "Album":"Midnight to Twelve",
+            "Cover": "http://ecx.images-amazon.com/images/I/51jQ1LJplcL.jpg",
+            "Release": "July 8, 2008",
+            "Link": "https://www.facebook.com/Midnight-To-Twelve-10421297633/timeline",
+            "Genres":"Alternative Rock"
+        },{
+            "SongName": "45 - Acoustic",
+            "Artist": "Shinedown",
+            "Album":"Leave a Whisper",
+            "Cover": "https://upload.wikimedia.org/wikipedia/en/b/bf/Shinedown_leave_a_whisper.jpg",
+            "Release": "May 27, 2003 ",
+            "Link": "http://shinedown.com",
+            "Genres":"Alternative Metal"
+        }
+
+    ]
+}
